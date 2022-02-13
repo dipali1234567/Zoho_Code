@@ -22,9 +22,13 @@ Guider to run this code
 
 
 1.Goto online GDB compiler use this link (https://www.onlinegdb.com/online_java_compiler)
+
 2.Erase whatever present in that compiler
+
 3.Copy code from file ()paste there .
+
 4.Click on run button
+
 5.Program will run successfully
 
 
